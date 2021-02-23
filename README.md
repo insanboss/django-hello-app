@@ -1,6 +1,8 @@
 # django-hello-app
-This is my first repository creating
+
+Установить python  версии 3.8 и выше
+
 Чтобы запустить сервер выполните 
-''' bash
+'''
 ./manage.py runserver
 '''
